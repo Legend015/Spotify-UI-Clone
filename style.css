@@ -193,29 +193,7 @@ a{
     width: 25px;
 }
 
-
-
-
-
-
-/* .section-1{
-    border-radius: 7px;
+.progress-bar{
+    width: 40%;
+    cursor: pointer;
 }
-.container>div>div{
-    font-weight: 600;
-    border-radius: 7px;
-}
-
-.section-2>div>div>img{
-    height: 15px;
-    width: 15px;
-    display: inline;
-    margin-right: 10px;
-}
-.section-2{
-    display: flex;
-    flex-direction: column;
-}
-.section-2 .library{
-    display: flex;
-} */
